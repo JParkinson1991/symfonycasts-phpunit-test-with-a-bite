@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="803d708a-7b80-4ab9-a741-0d9355830065" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="462" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="dinosaurs: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Homebrew PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/bin/.phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/liip/functional-test-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZIS1ZzbDX7h2LSXDNi69d6UuMA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Resources/views" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.XML" />
+    <property name="settings.editor.splitter.proportion" value="0.25356415" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Integration/AppBundle/Service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views" />
+      <recent name="$PROJECT_DIR$/tests/Unit/AppBundle" />
+      <recent name="$PROJECT_DIR$/tests/Functional/AppBundle/Controller" />
+      <recent name="$PROJECT_DIR$/src/AppBundle" />
+      <recent name="$PROJECT_DIR$/src/AppBundle/Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="DinosaurTest.testLengthMutators" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\AppBundle\Entity\DinosaurTest" file="$PROJECT_DIR$/tests/AppBundle/Entity/DinosaurTest.php" method="testLengthMutators" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EnclosureBuilderServiceProphecyTest.testItBuildsAndPersistsEnclosure" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\AppBundle\Service\EnclosureBuilderServiceProphecyTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/AppBundle/Service/EnclosureBuilderServiceProphecyTest.php" method="testItBuildsAndPersistsEnclosure" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml.dist" directory="$PROJECT_DIR$/tests" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.EnclosureBuilderServiceProphecyTest.testItBuildsAndPersistsEnclosure" />
+        <item itemvalue="PHPUnit.DinosaurTest.testLengthMutators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="803d708a-7b80-4ab9-a741-0d9355830065" name="Default Changelist" comment="" />
+      <created>1584524900372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584524900372</updated>
+      <workItem from="1584524902000" duration="534000" />
+      <workItem from="1584525586591" duration="4000" />
+      <workItem from="1584525619185" duration="13133000" />
+      <workItem from="1584619385762" duration="274000" />
+      <workItem from="1584619672203" duration="5526000" />
+      <workItem from="1584644403197" duration="676000" />
+      <workItem from="1585037677299" duration="7534000" />
+      <workItem from="1585049636025" duration="10710000" />
+      <workItem from="1585063618987" duration="803000" />
+      <workItem from="1585074006289" duration="737000" />
+      <workItem from="1585142041389" duration="2662000" />
+      <workItem from="1585213888179" duration="22432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3106" y="411" key="#CLI_Interpreters" timestamp="1585049776669">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3106" y="411" key="#CLI_Interpreters/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049776669" />
+    <state x="3052" y="322" key="#Code_Cleanup_Inspections" timestamp="1584628001098">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3052" y="322" key="#Code_Cleanup_Inspections/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1584628001098" />
+    <state x="3139" y="360" width="826" height="778" key="#DinosaurTest.testLengthMutators" timestamp="1584537921628">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3139" y="360" width="826" height="778" key="#DinosaurTest.testLengthMutators/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1584537921628" />
+    <state x="3515" y="347" key="#EnclosureBuilderServiceProphecyTest" timestamp="1585049719562">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3182" y="373" width="984" height="778" key="#EnclosureBuilderServiceProphecyTest.testItBuildsAndPersistsEnclosure" timestamp="1585049789668">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3182" y="373" width="984" height="778" key="#EnclosureBuilderServiceProphecyTest.testItBuildsAndPersistsEnclosure/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049789668" />
+    <state x="3515" y="347" key="#EnclosureBuilderServiceProphecyTest/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049719562" />
+    <state x="3440" y="385" key="#Inspections" timestamp="1584545953347">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3440" y="385" key="#Inspections/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1584545953347" />
+    <state x="3209" y="334" key="#PHP" timestamp="1585049782947">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3209" y="334" key="#PHP/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049782947" />
+    <state x="3143" y="623" key="#Test_Frameworks" timestamp="1585049831391">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3143" y="623" key="#Test_Frameworks/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049831391" />
+    <state x="3440" y="385" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585219001533">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3440" y="385" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585219001533" />
+    <state x="3556" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584525227065">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3556" y="530" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1584525227065" />
+    <state x="3635" y="443" key="#com.intellij.ide.util.MemberChooser" timestamp="1585571664105">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3635" y="443" key="#com.intellij.ide.util.MemberChooser/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585571664105" />
+    <state x="3455" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585301638899">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3455" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585301638899" />
+    <state x="3578" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1585227393087">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3578" y="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585227393087" />
+    <state x="2907" y="576" width="549" height="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584628001624">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2907" y="576" width="549" height="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1584628001624" />
+    <state width="2518" height="523" key="GridCell.Tab.0.bottom" timestamp="1585213930039">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="523" key="GridCell.Tab.0.bottom/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585213930039" />
+    <state width="2518" height="349" key="GridCell.Tab.0.bottom/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585144916117" />
+    <state width="2518" height="523" key="GridCell.Tab.0.center" timestamp="1585213930037">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="523" key="GridCell.Tab.0.center/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585213930037" />
+    <state width="2518" height="349" key="GridCell.Tab.0.center/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585144916116" />
+    <state width="2518" height="523" key="GridCell.Tab.0.left" timestamp="1585213930036">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="523" key="GridCell.Tab.0.left/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585213930036" />
+    <state width="2518" height="349" key="GridCell.Tab.0.left/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585144916114" />
+    <state width="2518" height="523" key="GridCell.Tab.0.right" timestamp="1585213930038">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="523" key="GridCell.Tab.0.right/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585213930038" />
+    <state width="2518" height="349" key="GridCell.Tab.0.right/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585144916116" />
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom" timestamp="1585063609180">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.bottom/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585063609180" />
+    <state width="2518" height="519" key="GridCell.Tab.1.center" timestamp="1585063609179">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.center/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585063609179" />
+    <state width="2518" height="519" key="GridCell.Tab.1.left" timestamp="1585063609179">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.left/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585063609179" />
+    <state width="2518" height="519" key="GridCell.Tab.1.right" timestamp="1585063609180">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="519" key="GridCell.Tab.1.right/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585063609180" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1585218909856">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585218909856" />
+    <state x="3441" y="543" key="NewPhpClassDialog" timestamp="1585301727876">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3441" y="543" key="NewPhpClassDialog/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585301727876" />
+    <state x="2787" y="495" width="1378" height="806" key="SettingsEditor" timestamp="1585571266388">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2787" y="495" width="1378" height="806" key="SettingsEditor/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585571266388" />
+    <state x="3276" y="346" key="SettingsEditor/2560.0.2560.1440/0.23.2560.1329@2560.0.2560.1440" timestamp="1584546552469" />
+    <state x="3128" y="336" width="1162" height="722" key="SettingsEditor/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585224284320" />
+    <state x="639" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1585074121001">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="639" y="383" key="com.intellij.ide.util.TipDialog/0.23.1680.939@0.23.1680.939" timestamp="1585074121001" />
+    <state x="3533" y="552" key="com.intellij.ide.util.TipDialog/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585049636175" />
+    <state x="3181" y="614" width="952" height="632" key="find.popup" timestamp="1585222378155">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3181" y="614" width="952" height="632" key="find.popup/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585222378155" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585038600280">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585038600280" />
+    <state x="3505" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1585574509045">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3505" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1585220769178" />
+    <state x="3505" y="331" width="670" height="676" key="search.everywhere.popup/2560.0.2560.1440/0.23.2560.1417@2560.0.2560.1440" timestamp="1585574509045" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/phpunit_testing_with_a_bite@EnclosureBuilderServiceProphecyTest_testItBuildsAndPersistsEnclosure.xml" NAME="EnclosureBuilderServiceProphecyTest.testItBuildsAndPersistsEnclosure Coverage Results" MODIFIED="1585050185935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

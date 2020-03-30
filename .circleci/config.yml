@@ -39,5 +39,8 @@ jobs:
           paths:
             - ./vendor
 
+      # Create expected directory to house test sqlite db
+      - run: mkdir -p var/data
+
       # Run the tests
       - run: ./vendor/bin/simple-phpunit
